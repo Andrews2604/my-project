@@ -1,1 +1,10 @@
 New file was created on github
+
+
+echo "22"
+date "25.07.2024"
+i = 30
+i < 10 False
+i> 10 truee
+i++
+
